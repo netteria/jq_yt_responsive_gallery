@@ -43,6 +43,6 @@ We initiate the js code
 <br />
 
 
-More on [Responsive YouTube Video Gallery - Netteria.NET](https://netteria.net/responsive-youtube-video-gallery-slider/103/)<br>
+More on and DEMO [Responsive YouTube Video Gallery - Netteria.NET](https://netteria.net/responsive-youtube-video-gallery-slider/103/)<br>
 Create by [Netteria.NET](https://netteria.net) 2016.
 
