@@ -1,5 +1,5 @@
 # jq_yt_responsive_gallery
-Responsive YouTube Video Gallery
+<h1>Responsive YouTube Video Gallery</h1>
 
 <h1>Donate</h1>
 <br />
