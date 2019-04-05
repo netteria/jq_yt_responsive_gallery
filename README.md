@@ -1,5 +1,11 @@
 # jq_yt_responsive_gallery
 Responsive YouTube Video Gallery
+
+<h1>Donate</h1>
+<br />
+If this script was useful, you can buy me coffee;) <a href="https://paypal.me/forcoffee897?locale.x=pl_PL">Donate via Paypal</a>
+<h2>Thanks!</h2>
+
 Jak używać / How to use
 <p>Wymagana jest biblioteka jquery / Required library jquery</p>
 
